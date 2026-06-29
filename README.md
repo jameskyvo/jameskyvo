@@ -38,13 +38,9 @@ I'm a software developer with experience building applications using the Microso
 ### Frameworks & Technologies
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge)
-![WPF](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge)
 
 ### Tools
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 
